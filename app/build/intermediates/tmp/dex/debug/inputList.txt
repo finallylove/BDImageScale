@@ -1,0 +1,2 @@
+E:\FROM\example\BDImageScale1\app\build\intermediates\classes\debug
+E:\FROM\example\BDImageScale1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-138637b5fc91853508ccfca7fc42ede91e55b07e.jar
